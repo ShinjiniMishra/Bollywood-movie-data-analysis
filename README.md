@@ -1,15 +1,18 @@
 //PROJECT OVERVIEW//
+
 This exploratory data analysis project studies the various components in the bollywood movie industry through correlation, visualization, and thorough analysis. 
 From the analysis, I have tried to bring out certain important insights and relationships between the most crucial elements in the industry—such as budget, ratings, 
 and profit—and visualize them through statistical diagrams.
 
 //TOOLS USED//
+
 Python
 Pandas
 Matplotlib
 Seaborn
 
 //KEY FINDINGS//
+
 1.Genre
 
 - Genre that dominated mostly throughout 2017 to 2025 was
