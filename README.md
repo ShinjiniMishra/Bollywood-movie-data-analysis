@@ -13,15 +13,13 @@ Seaborn
 
 //KEY FINDINGS//
 
-1.Genre
+
 
 - Genre that dominated mostly throughout 2017 to 2025 was
   War/Biographical and thus had higher average ratings in the dataset
 
 - Genre with the least average rating was Action/Fantasy in the dataset
 
-
-2. Year
 
 - 2021 was the year with the highest rated movies in the dataset
 
@@ -33,8 +31,6 @@ Seaborn
 - 2020 and 2021 had the least number of movie releases mainly
   due to the Covid pandemic
 
-
-3. Correlation Heatmap Findings
 
 - Budget of a movie and its rating have a negative correlation,
   meaning the rating of a movie is not influenced by its budget.
